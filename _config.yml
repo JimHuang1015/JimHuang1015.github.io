@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "goldstine's blog"
+name: "Jim's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：Goldstine  分享编程资源 | 学习路线"
+description: "No description!"
 
 #
 # Flags below are optional
@@ -44,14 +44,13 @@ excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: goldstine
-  email: 15797899690@163.com
+  zhihu: 
+  email: 2792396912@qq.com
   facebook:
   flickr:
-  github: goldstine 
+  github: https://github.com/JimHuang1015
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -71,17 +70,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 062eeb9a0adf39976274
-  clientSecret: 3c319e4cf4a90b70809d7fd1b25e4c6c10376a10
-  repo: goldstine.github.io
-  owner: goldstine
+  clientID: Ov23licCOI6UXLiJIKaZ
+  clientSecret: fe24aebecda3158da4f8f7f3e5423750ba23b844
+  repo: jimhuang1015.github.io
+  owner: Jim
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+# google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://goldstine.github.io
+url: https://jimhuang1015.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -126,4 +125,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
